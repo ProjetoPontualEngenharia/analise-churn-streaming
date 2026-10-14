@@ -21,6 +21,7 @@ disso, o risco cai bastante.
 ## Como explorar
 O notebook completo está em [`notebooks/analise_churn.ipynb`](notebooks/analise_churn.ipynb).
 Os dados usados são um conjunto sintético criado para fins didáticos.
+
 ## Autor
 Bruno Borges — [LinkedIn]( https://www.linkedin.com/in/bruno-borges-engecivil/)
 
